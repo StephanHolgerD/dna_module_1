@@ -1,0 +1,11 @@
+/mnt/raid/users/stephan/01_jiraTickets/ITD_1162_FirstSeqRun/00_data/3002048_S1_L001_R1_001.fastq.gz
+/mnt/raid/users/stephan/01_jiraTickets/ITD_1162_FirstSeqRun/00_data/3002048_S1_L002_R1_001.fastq.gz
+/mnt/raid/users/stephan/01_jiraTickets/ITD_1162_FirstSeqRun/00_data/3002048_S1_L003_R1_001.fastq.gz
+/mnt/raid/users/stephan/01_jiraTickets/ITD_1162_FirstSeqRun/00_data/3002048_S1_L004_R1_001.fastq.gz
+/mnt/raid/users/stephan/01_jiraTickets/ITD_1162_FirstSeqRun/00_data/3004823_S3_L001_R1_001.fastq.gz
+/mnt/raid/users/stephan/01_jiraTickets/ITD_1162_FirstSeqRun/00_data/3004823_S3_L002_R1_001.fastq.gz
+/mnt/raid/users/stephan/01_jiraTickets/ITD_1162_FirstSeqRun/00_data/3004823_S3_L003_R1_001.fastq.gz
+/mnt/raid/users/stephan/01_jiraTickets/ITD_1162_FirstSeqRun/00_data/3004823_S3_L004_R1_001.fastq.gz
+/mnt/raid/users/stephan/01_jiraTickets/ITD_1162_FirstSeqRun/00_data/3014765_S4_L001_R1_001.fastq.gz
+/mnt/raid/users/stephan/01_jiraTickets/ITD_1162_FirstSeqRun/00_data/3014765_S4_L002_R1_001.fastq.gz
+/mnt/raid/users/stephan/01_jiraTickets/ITD_1162_FirstSeqRun/00_data/3014765_S4_L003_R1_001.fastq.gz
